@@ -1,6 +1,7 @@
 # 3DGebouwen-Infrastructuur
 
  <img src="http://www.degroenegemeente.nl/3D/voxels.jpg" alt="Voxels" height="100" width="100"> 
+ <img src="http://www.degroenegemeente.nl/3D/vectors.jpg" alt="Voxels" height="100" width="100">
 
 
 Voorlopige mappenstructuur, ter uitbreiding :
