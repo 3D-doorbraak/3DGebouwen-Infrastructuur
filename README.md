@@ -1,5 +1,8 @@
 # 3DGebouwen-Infrastructuur
 
+ <img src="http://www.degroenegemeente.nl/3D/voxels.jpg" alt="Voxels" height="100" width="100"> 
+
+
 Voorlopige mappenstructuur, ter uitbreiding :
 
 <u><b>Algemeen :</b></u>
