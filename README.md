@@ -16,3 +16,4 @@ Voorlopige mappenstructuur, ter uitbreiding :
                           Cesium : An open-source JavaScript library for world-class 3D globes and maps</br>  http://cesiumjs.org/ </br>
                                   https://cesiumjs.org/2015/08/10/Introducing-3D-Tiles/  
                     
+  <u><b>Vergunningverlening-Omgevingsloket :</b></u>  dit lijkt een belangrijke toepassing voor digitale 3D-modellen van gebouwen
