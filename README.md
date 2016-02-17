@@ -8,6 +8,8 @@ Voorlopige mappenstructuur, ter uitbreiding :
 
 <u><b>Algemeen :</b></u>
 
+<u><b>Ambitie mogelijkheden :</b></u> de werkgroep zal een (concrete) ambitie moeten formuleren voor de komende tijd om aan te gaan werken, een aantal mogelijkheden zal op een rijtje worden gezet
+
 <u><b>BIM :</b></u>
 
 <u><b>Indoor modelling :</b></u>  indoor meten, bijvoorbeeld met laserscanning, specifieke toepassingen als
