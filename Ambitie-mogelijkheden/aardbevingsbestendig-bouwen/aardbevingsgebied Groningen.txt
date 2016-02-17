@@ -1,0 +1,17 @@
+Zoals bekend zijn er in Groningen veel gebouwen en woningen getroffen door aardbevingen veroorzaakt door gaswinning, met grote, acute en
+urgente sociaal-economische en veiligheidsbedreigende gevolgen voor de samenleving aldaar.
+(Bijna) al deze gebouwen en woningen zullen aardbevingsbestendig moeten worden gemaakt.
+Dat is een enorme operatie, met veel bouwkundige en bouwtechnische aspecten.
+Digitale 3D modellen kunnen een rol spelen in het proces.
+Mogelijke (onderzoeks-)vragen die hierbij gesteld kunnen worden zijn :
+
+1. In hoeverre kunnen digitale 3D-modellen een (bouwkundige/bouwtechnische) bijdrage leveren
+aan het proces van aardbevingsbestendig maken van gebouwen en woningen ?
+ 
+2. Kunnen digitale 3D-modellen het proces versnellen ?  Het lijkt er immers op dat het hele proces veel tijd in beslag gaat nemen.
+ 
+3. Hoe kun je met zo min mogelijk kosten zo veel mogelijk gebouwen en woningen scannen of anderszins inmeten ?
+
+De werkgroep 3DGebouwen-Infrastructuur zou een verbindende rol kunnen spelen tussen betrokken partijen, zoals de faculteiten Bouwkunde
+en Civiele Techniek van de TU Delft, die onderzoek verrichten op dit gebied, bedrijven die de herstel/verstevigingsmaatregelen uitvoeren
+zoals aannemers en wellicht ook de NAM. Het is duidelijk dat het een (politiek) zeer gevoelig en beladen onderwerp is.
